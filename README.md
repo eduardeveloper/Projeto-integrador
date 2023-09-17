@@ -34,7 +34,7 @@ Professor preenche os dados;
 Se todos os campos estiverem preenchidos, retorna tela de sucesso, se nao, retorna tela de cadastro com alerta de campos obrigatorios.
 ![Captura de tela 2023-09-16 214050](https://github.com/eduardeveloper/Projeto-integrador/assets/89279263/935b5058-d85f-49f4-b28f-73304e65c960)
 
-Fluxo de Cadastro do Aluno
+Fluxo de Cadastro do Aluno - 
 O usuário seleciona a opção de "Cadastro de Aluno"; Irá aparecer um formulário para o Aluno preencher com todos os dados necessários(Nome, Sobrenome, data de Nascimento, Email, etc); Se todos os campos estiverem preenchidos corretamente, vai aparecer uma confirmação que o cadastro foi realizado com sucesso, se algum campo estiver errado/formato inválido, o campo estará com uma marcação de alerta para corrigir o erro.
 
 ![image](https://github.com/eduardeveloper/Projeto-integrador/assets/137636847/a89982da-169b-44a5-bd6e-00b3b164c5b1)
