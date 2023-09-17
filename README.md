@@ -3,3 +3,6 @@ Projeto Integrador(pt2) 3° Semestre / Protótipo de interface funcional
 
 Tela de login
 ![logincadastro](https://github.com/eduardeveloper/Projeto-integrador/assets/85944103/a34bda6c-df8c-4b87-a972-1c6f0d4a62c3)
+
+Fluxo de cadastro professor
+![Captura de tela 2023-09-16 214050](https://github.com/eduardeveloper/Projeto-integrador/assets/89279263/935b5058-d85f-49f4-b28f-73304e65c960)
