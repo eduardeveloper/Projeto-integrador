@@ -15,13 +15,12 @@ Guilherme Lima Moreira
 
 Gabriel de Oliveira Grote 
 
-
----------------------------------------------------------
-Diagrama de caso de uso utilizado como referência:
-![diagramadecasdeuso](https://github.com/eduardeveloper/Projeto-integrador/assets/85944103/104513e8-ea94-4664-92e8-86c974c7d6ad)
-
 Documentação de um protótipo funcional desenvolvido no Figma refletindo o modelo 
 da primeira entrega do Projeto Integrador 3°semestre 
+---------------------------------------------------------
+Diagrama de caso de uso utilizado como referência:
+
+![diagramadecasdeuso](https://github.com/eduardeveloper/Projeto-integrador/assets/85944103/104513e8-ea94-4664-92e8-86c974c7d6ad)
 
 Tela de login 
 A aplicação apresentará uma tela com opção de login e cadastro, o usuário seleciona a opção de cadastro.
