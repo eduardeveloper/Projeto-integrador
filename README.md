@@ -21,5 +21,4 @@ Gabriel de Oliveira Grote
 
 Tela de login 
 
-<br>
 ![logincadastro](https://github.com/eduardeveloper/Projeto-integrador/assets/85944103/a34bda6c-df8c-4b87-a972-1c6f0d4a62c3)
